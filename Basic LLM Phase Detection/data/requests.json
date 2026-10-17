@@ -1,0 +1,72 @@
+[
+    {
+        "description": "Description provide kro",
+        "client": "Nik",
+        "project": "MetaCafe",
+        "id": "d149d2d1",
+        "timestamp": "2026-10-17T01:18:29.437671"
+    },
+    {
+        "description": "OK, now this is my desc",
+        "client": "Nik",
+        "project": "MetaCafe",
+        "phase": "requirements",
+        "confidence": "Low (Fallback)",
+        "id": "f5564913",
+        "timestamp": "2026-10-17T09:36:53.115850"
+    },
+    {
+        "description": "Adding payment methods in my project",
+        "client": "Nik",
+        "project": "MetaCafe",
+        "phase": "implementation",
+        "confidence": "Medium (Fallback)",
+        "id": "9d9fe0c8",
+        "timestamp": "2026-10-17T09:38:22.362356"
+    },
+    {
+        "description": "Adding payment methods in my project",
+        "client": "Nik",
+        "project": "MetaCafe",
+        "phase": "implementation",
+        "confidence": "Medium (Fallback)",
+        "id": "d6fc981e",
+        "timestamp": "2026-10-17T09:38:57.381812"
+    },
+    {
+        "description": "Checking if my tasks are working fine",
+        "client": "NIk",
+        "project": "MetaCAfe",
+        "phase": "requirements",
+        "confidence": "Low (Fallback)",
+        "id": "371b251f",
+        "timestamp": "2026-10-17T09:48:53.094631"
+    },
+    {
+        "description": "Make simple SDLC for project",
+        "client": "Nik",
+        "project": "MetaCafe V2",
+        "phase": "requirements",
+        "confidence": "Low (Fallback)",
+        "id": "527af2bd",
+        "timestamp": "2026-10-17T12:10:41.972136"
+    },
+    {
+        "description": "Create Payment Module",
+        "client": "Nik",
+        "project": "MetaCafe V2",
+        "phase": "implementation",
+        "confidence": "Medium (Fallback)",
+        "id": "474856db",
+        "timestamp": "2026-10-17T12:11:17.726910"
+    },
+    {
+        "description": "Generate test reports for the project",
+        "client": "Nik",
+        "project": "MetaCafe",
+        "phase": "testing",
+        "confidence": "Medium (Fallback)",
+        "id": "bf4e974d",
+        "timestamp": "2026-10-17T12:16:15.142804"
+    }
+]

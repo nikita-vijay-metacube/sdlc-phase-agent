@@ -1,0 +1,248 @@
+[
+    {
+        "description": "Description provide kro",
+        "client": "Nik",
+        "project": "MetaCafe",
+        "id": "d149d2d1",
+        "timestamp": "2026-10-17T01:18:29.437671"
+    },
+    {
+        "description": "OK, now this is my desc",
+        "client": "Nik",
+        "project": "MetaCafe",
+        "phase": "requirements",
+        "confidence": "Low (Fallback)",
+        "id": "f5564913",
+        "timestamp": "2026-10-17T09:36:53.115850"
+    },
+    {
+        "description": "Adding payment methods in my project",
+        "client": "Nik",
+        "project": "MetaCafe",
+        "phase": "implementation",
+        "confidence": "Medium (Fallback)",
+        "id": "9d9fe0c8",
+        "timestamp": "2026-10-17T09:38:22.362356"
+    },
+    {
+        "description": "Adding payment methods in my project",
+        "client": "Nik",
+        "project": "MetaCafe",
+        "phase": "implementation",
+        "confidence": "Medium (Fallback)",
+        "id": "d6fc981e",
+        "timestamp": "2026-10-17T09:38:57.381812"
+    },
+    {
+        "description": "Using Triggers in Database",
+        "client": "Nik",
+        "project": "MetaCafe",
+        "phase": "implementation",
+        "confidence": "Medium (Fallback)",
+        "advice": "Advice: Keep code modular and follow project style guidelines.",
+        "id": "3ae09e99",
+        "timestamp": "2026-10-17T09:44:47.151465"
+    },
+    {
+        "description": "checking if my tasks are working fine",
+        "client": "Nik",
+        "project": "MetaCAfe",
+        "phase": "requirements",
+        "confidence": "Low (Fallback)",
+        "advice": "Advice: Document clear user stories and acceptance criteria.",
+        "id": "b9337ae4",
+        "timestamp": "2026-10-17T09:47:52.264414"
+    },
+    {
+        "description": "Design a wireframe for the user profile dashboard with email notification enable button",
+        "client": "Nik",
+        "project": "MetaCAfe V2",
+        "phase": "design",
+        "confidence": "Medium (Fallback)",
+        "advice": "Advice: Draft wireframes or architecture diagrams before implementation.",
+        "id": "ace95482",
+        "timestamp": "2026-10-17T09:54:58.211359"
+    },
+    {
+        "description": "Implement the database schema for user profiles",
+        "client": "Nik",
+        "project": "Metacafe V2",
+        "phase": "implementation",
+        "confidence": "Medium (Fallback)",
+        "advice": "Advice: Keep code modular and follow project style guidelines.",
+        "id": "617cfb7b",
+        "timestamp": "2026-10-17T09:55:51.170870"
+    },
+    {
+        "description": "Design a wireframe for the user profile dashboard with email notification enable button",
+        "client": "Nik",
+        "project": "MetacAFE V2",
+        "phase": "design",
+        "confidence": "Medium (Fallback)",
+        "advice": "Advice: Draft wireframes or architecture diagrams before implementation.",
+        "id": "fa60d054",
+        "timestamp": "2026-10-17T10:00:09.192749"
+    },
+    {
+        "description": "Design a wireframe for the user profile dashboard with email notification enable button",
+        "client": "Nik",
+        "project": "MetaCafe V",
+        "phase": "design",
+        "confidence": "Medium (Fallback)",
+        "advice": "Advice: Draft wireframes or architecture diagrams before implementation.",
+        "id": "6a525ad0",
+        "timestamp": "2026-10-17T10:01:48.598233"
+    },
+    {
+        "description": "test my project noe",
+        "client": "Nik",
+        "project": "MetaCafe V2",
+        "phase": "testing",
+        "confidence": "Medium (Fallback)",
+        "advice": "Advice: Ensure edge cases and unit test coverage are verified.",
+        "id": "177ff149",
+        "timestamp": "2026-10-17T10:10:31.856692"
+    },
+    {
+        "description": "Add a method to test all ordera",
+        "client": "Ni",
+        "project": "MetaCafe V2",
+        "phase": "testing",
+        "confidence": "Medium (Fallback)",
+        "advice": "Advice: Ensure edge cases and unit test coverage are verified.",
+        "id": "10421650",
+        "timestamp": "2026-10-17T10:13:25.535384"
+    },
+    {
+        "description": "test my system",
+        "client": "Nik",
+        "project": "V",
+        "phase": "testing",
+        "confidence": "Medium (Fallback)",
+        "advice": "Advice: Ensure edge cases and unit test coverage are verified.",
+        "id": "b3622182",
+        "timestamp": "2026-10-17T10:13:46.134336"
+    },
+    {
+        "description": "Loading my browser",
+        "client": "Nik",
+        "project": "V2",
+        "phase": "requirements",
+        "confidence": "Low (Fallback)",
+        "advice": "Advice: Document clear user stories and acceptance criteria.",
+        "id": "d6328a67",
+        "timestamp": "2026-10-17T10:14:46.719657"
+    },
+    {
+        "description": "testing krle",
+        "client": "Nik",
+        "project": "V2",
+        "phase": "testing",
+        "confidence": "Medium (Fallback)",
+        "advice": "Advice: Ensure edge cases and unit test coverage are verified.",
+        "id": "9c49aee5",
+        "timestamp": "2026-10-17T10:16:34.943087"
+    },
+    {
+        "description": "test all things",
+        "client": "Nik",
+        "project": "V2",
+        "phase": "testing",
+        "confidence": "Medium (Fallback)",
+        "advice": "Advice: Ensure edge cases and unit test coverage are verified.",
+        "id": "c78fdaff",
+        "timestamp": "2026-10-17T10:17:05.946681"
+    },
+    {
+        "description": "Add a chart in my project",
+        "client": "Nik",
+        "project": "V2",
+        "phase": "requirements",
+        "confidence": "Low (Fallback)",
+        "advice": "Advice: Document clear user stories and acceptance criteria.",
+        "id": "a3f3d71b",
+        "timestamp": "2026-10-17T10:53:51.478086"
+    },
+    {
+        "description": "Add a model in page",
+        "client": "Nik",
+        "project": "V2",
+        "phase": "requirements",
+        "confidence": "Low (Fallback)",
+        "advice": "Advice: Document clear user stories and acceptance criteria.",
+        "id": "f207c30c",
+        "timestamp": "2026-10-17T10:55:21.063926"
+    },
+    {
+        "description": "add a popup",
+        "client": "Nik",
+        "project": "V2",
+        "phase": "requirements",
+        "confidence": "Low (Fallback)",
+        "advice": "Advice: Document clear user stories and acceptance criteria.",
+        "id": "4ac8687e",
+        "timestamp": "2026-10-17T10:56:14.519295"
+    },
+    {
+        "description": "Testing entire UAT",
+        "client": "Nik",
+        "project": "V2",
+        "phase": "testing",
+        "confidence": "Medium (Fallback)",
+        "advice": "Advice: Ensure edge cases and unit test coverage are verified.",
+        "id": "5a415c1a",
+        "timestamp": "2026-10-17T10:58:43.205019"
+    },
+    {
+        "description": "bhai test krle",
+        "client": "Nik",
+        "project": "V2",
+        "phase": "testing",
+        "confidence": "Medium (Fallback)",
+        "advice": "Advice: Ensure edge cases and unit test coverage are verified.",
+        "id": "951b1a18",
+        "timestamp": "2026-10-17T11:00:18.806532"
+    },
+    {
+        "description": "Test krle poora",
+        "client": "Nik",
+        "project": "V2",
+        "phase": "testing",
+        "confidence": "Medium (Fallback)",
+        "advice": "Advice: Ensure edge cases and unit test coverage are verified.",
+        "id": "3e1ee0a1",
+        "timestamp": "2026-10-17T11:01:47.016197"
+    },
+    {
+        "description": "bring the lapp",
+        "client": "Nik",
+        "project": "V2",
+        "phase": "requirements",
+        "confidence": "Low",
+        "advice": "Advice: Document clear user stories and acceptance criteria.",
+        "id": "322c770d",
+        "timestamp": "2026-10-17T11:03:47.448461"
+    },
+    {
+        "description": "Create Jira tickets",
+        "client": "Nik",
+        "project": "V2",
+        "phase": "requirements",
+        "confidence": "High",
+        "advice": "Advice: Document clear user stories and acceptance criteria.",
+        "artifact_path": "artifacts/requirements/doc_new_requirements.md",
+        "id": "29380972",
+        "timestamp": "2026-10-17T11:09:00.560742"
+    },
+    {
+        "description": "Make email notifications enabled",
+        "client": "Nik",
+        "project": "MetaCafe V2",
+        "phase": "requirements",
+        "confidence": "High",
+        "advice": "Advice: Document clear user stories and acceptance criteria.",
+        "artifact_path": "artifacts/requirements/doc_new_requirements.md",
+        "id": "39198196",
+        "timestamp": "2026-10-17T12:28:18.991802"
+    }
+]

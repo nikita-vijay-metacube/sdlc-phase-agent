@@ -1,0 +1,66 @@
+[
+    {
+        "description": "Description provide kro",
+        "client": "Nik",
+        "project": "MetaCafe",
+        "id": "d149d2d1",
+        "timestamp": "2026-10-17T01:18:29.437671"
+    },
+    {
+        "description": "OK, now this is my desc",
+        "client": "Nik",
+        "project": "MetaCafe",
+        "phase": "requirements",
+        "confidence": "Low (Fallback)",
+        "id": "f5564913",
+        "timestamp": "2026-10-17T09:36:53.115850"
+    },
+    {
+        "description": "Adding payment methods in my project",
+        "client": "Nik",
+        "project": "MetaCafe",
+        "phase": "implementation",
+        "confidence": "Medium (Fallback)",
+        "id": "9d9fe0c8",
+        "timestamp": "2026-10-17T09:38:22.362356"
+    },
+    {
+        "description": "Adding payment methods in my project",
+        "client": "Nik",
+        "project": "MetaCafe",
+        "phase": "implementation",
+        "confidence": "Medium (Fallback)",
+        "id": "d6fc981e",
+        "timestamp": "2026-10-17T09:38:57.381812"
+    },
+    {
+        "description": "Using Triggers in Database",
+        "client": "Nik",
+        "project": "MetaCafe",
+        "phase": "implementation",
+        "confidence": "Medium (Fallback)",
+        "advice": "Advice: Keep code modular and follow project style guidelines.",
+        "id": "3ae09e99",
+        "timestamp": "2026-10-17T09:44:47.151465"
+    },
+    {
+        "description": "checking if my tasks are working fine",
+        "client": "Nik",
+        "project": "MetaCAfe",
+        "phase": "requirements",
+        "confidence": "Low (Fallback)",
+        "advice": "Advice: Document clear user stories and acceptance criteria.",
+        "id": "b9337ae4",
+        "timestamp": "2026-10-17T09:47:52.264414"
+    },
+    {
+        "description": "Some refined charts",
+        "client": "Nik",
+        "project": "V2",
+        "phase": "requirements",
+        "confidence": "Low (Fallback)",
+        "advice": "Advice: Document clear user stories and acceptance criteria.",
+        "id": "dc46ee8b",
+        "timestamp": "2026-10-17T12:23:45.012963"
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "total_interactions": 1,
+    "successful_interactions": 1,
+    "failed_interactions": 0,
+    "phases_detected": {
+        "design": 1
+    },
+    "total_response_time": 14.29767656326294,
+    "recent_errors": []
+}

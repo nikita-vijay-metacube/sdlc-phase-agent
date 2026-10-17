@@ -1,0 +1,3 @@
+#nothing required
+pandas>=2.0.0
+matplotlib>=3.5.0
